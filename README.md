@@ -1,5 +1,8 @@
 ﻿# bot authentication
 
+> [!NOTE] 
+> Use as is. Sample not maintained.
+
 Bot Framework v4 bot authentication sample
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to use authentication in your bot using OAuth.
